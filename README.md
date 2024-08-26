@@ -4,7 +4,7 @@
   <img src ="https://img.shields.io/badge/Terraform-412991.svg?style&logo=Terraform&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Amazon_AWS-FFA500.svg?style&logo=amazonaws&logoColor=white" size = 40px/>
 
-  Thanks to the contributors without them this project seemed next to impossible!
+  Thanks to the contributors and guidence for this project.
 
 - @kiranBakale
 
